@@ -25,3 +25,15 @@ SyllabusSync is a web application that streamlines the process of transferring c
 
 ---
 ## Wireframes
+
+1. On the main dashboard, the user can either add classes to the current semester or create a new semester and then add classes.
+![SyllabusSync Screenshot](images/add-a-new-class.png)
+
+
+2. When the user clicks “Add a new class”, a window will pop up allowing them to upload their class syllabus. The system will then extract the core information
+![SyllabusSync Screenshot](images/upload-syllabus.png)
+
+
+3. After extraction, the system will display the extracted results. Students can review and correct any errors before choosing a Notion template and importing the data into Notion
+![SyllabusSync Screenshot](images/import-to-notion.png)
+
