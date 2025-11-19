@@ -21,7 +21,7 @@ SyllabusSync is a web application that streamlines the process of transferring c
 - **Backend:** FastAPI  
 - **Frontend:** HTMX + Tailwind CSS  
 - **Integration:** Notion API  
-- **Extraction:** Regex + heuristics + optional LLM for enhanced parsing
+- **Extraction:** Regex + heuristics + LLM for enhanced parsing
 
 ---
 ## Wireframes
